@@ -5,8 +5,8 @@ the 1 vs 7 classification (target problem ) using an SVM classifier trained on 1
 
 #Files used
 
-student_train.csv  --> training data
-student_testing.csv  --> testing data
-transfer_train.csv  --> contains 1 vs 7 data for Training the transfer learning model
-transfer_test.csv  --> testing data for the 1 vs 7 Transfer Learning model.
+student_train.csv  --> training data<br />
+student_testing.csv  --> testing data<br />
+transfer_train.csv  --> contains 1 vs 7 data for Training the transfer learning model<br />
+transfer_test.csv  --> testing data for the 1 vs 7 Transfer Learning model.<br />
 
